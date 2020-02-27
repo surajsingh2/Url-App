@@ -33,7 +33,9 @@ To do this, first copy `src/auth_config.json.example` into a new file in the sam
 ```bash
 npm run start
 ```
+```bash
 node server.js on other terminal
+```
 
 ## Deployment
 
